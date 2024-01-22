@@ -20,6 +20,10 @@ Additionally, a folder contains normal CT-scan images for reference. The dataset
 
 The project employs an ensemble model for chest cancer detection, combining the power of EfficientNetB3, ResNet50, and InceptionV3 architectures. Through meticulous integration, the ensemble model achieves a remarkable test accuracy of 90.28% and a test loss of 0.42. This collaborative approach enhances the overall performance and robustness of the classification, harnessing the unique strengths of each individual model. The aim is to provide accurate diagnoses, insightful information about the cancer type, and recommended treatment strategies based on the comprehensive analysis of chest CT-scan images.
 
+For a visual representation of the model's performance, you can refer to the Confusion Matrix below:
+
+![Confusion Matrix](https://github.com/VivekSai07/Ensemble-Classification-for-Chest-Cancer-Diagnosis-from-Diverse-CT-Scan-Images/blob/main/Confusion%20matrix..png)
+
 ## About Chest Cancer Types
 
 1. **Adenocarcinoma:** The most common form of lung cancer, accounting for 30 percent of all cases overall and about 40 percent of all non-small cell lung cancer occurrences. Adenocarcinomas are found in the outer region of the lung in glands that secrete mucus.
